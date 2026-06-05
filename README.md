@@ -1,7 +1,14 @@
+<h1 align="center">Hi, I'm Pantira Sripimmeang 👋</h1>
+<h3 align="center">Software Engineer · Full-Stack Web Developer</h3>
 
-- I design and build web applications end-to-end — from database schema to pixel-perfect UI.
-- I enjoy turning real business problems into clean, maintainable software.
-- I'm comfortable across the stack: React/TypeScript on the front, Node.js + PostgreSQL on the back.
+---
+
+## About Me
+
+- 🎓 **Bachelor of Engineering (Computer Engineering)** — *Sripatum University*, School of Information Technology · graduated with **1st Class Honors**.
+- 💻 I work as a **Software Engineer**, designing and building web applications end-to-end — from database schema to pixel-perfect UI.
+- 🧩 I enjoy turning real business problems into clean, maintainable software.
+- ⚙️ I'm comfortable across the stack: **React / TypeScript** on the front, **Node.js + PostgreSQL** on the back.
 
 ---
 
@@ -52,7 +59,9 @@
 
 ---
 
-## Featured Projects
+## Work & Projects
+
+A selection of applications I've designed and built end-to-end.
 
 ### Kaizen Web Application
 > An internal platform for collecting, reviewing, and tracking continuous-improvement (Kaizen) suggestions across the company.
@@ -98,26 +107,13 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pantira-Sripimmeang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pantira-Sripimmeang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pantira-Sripimmeang&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Let's Connect
 
 <p align="center">
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Pantira-Sripimmeang">
+  <a href="https://github.com/Pantira111">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/">
@@ -126,5 +122,5 @@
 </p>
 
 <p align="center">
-  <i>“Code is read more often than it is written.” — Building things people enjoy using.</i>
+  <i>"Code is read more often than it is written." — Building things people enjoy using.</i>
 </p>
